@@ -1,18 +1,18 @@
 # vue-faceapi
 
-g—p•û–@
-node.js‚ğg—p‚µ‚Ü‚·B
-node.js‚ğƒCƒ“ƒXƒg[ƒ‹‚µ‚Ä‚­‚¾‚³‚¢B
+ä½¿ç”¨æ–¹æ³•
+node.jsã‚’ä½¿ç”¨ã—ã¾ã™ã€‚
+node.jsã‚’ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã—ã¦ãã ã•ã„ã€‚
 
 
-## vue.js‚ğƒCƒ“ƒXƒg[ƒ‹Bƒo[ƒWƒ‡ƒ“‚R‚ğ“ü‚ê‚Ä‚­‚¾‚³‚¢B
+## vue.jsã‚’ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã€‚ãƒãƒ¼ã‚¸ãƒ§ãƒ³ï¼“ã‚’å…¥ã‚Œã¦ãã ã•ã„ã€‚
 ```
 npm install -g @vue/cli
 ```
 
-## git‚©‚ç“–ƒtƒ@ƒCƒ‹‚ğcloneB
+## gitã‹ã‚‰å½“ãƒ•ã‚¡ã‚¤ãƒ«ã‚’cloneã€‚
 
-## face-api.js‚ğ’Ç‰ÁB
+## face-api.jsã‚’è¿½åŠ ã€‚
 ```
 npm install @tensorflow/tfjs-node
 npm install face-api.js
@@ -20,12 +20,12 @@ npm install canvas
 ```
 
 
-### Às‚·‚éê‡
+### å®Ÿè¡Œã™ã‚‹å ´åˆ
 ```
 npm run serve
 ```
 
-### Electron‚ÅƒAƒvƒŠ‰»
+### Electronã§ã‚¢ãƒ—ãƒªåŒ–
 ```
 npm run electron:build
 ```
